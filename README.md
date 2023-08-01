@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on saving the planet
+- 🌱 I’m currently learning R
+- 👯 I’m looking to collaborate on projects regarding Feedback Automation Systems
 <!--
 **teehai07/teehai07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
